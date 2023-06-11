@@ -22,3 +22,5 @@ window.addEventListener('scroll', () => {
 getProducts();
 ```
 
+Related: [[_Async JavaScript_]]
+
