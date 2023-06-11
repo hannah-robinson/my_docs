@@ -14,7 +14,7 @@ async function getProducts() {
 window.addEventListener('scroll', () => {
   if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000) {
     getProducts();
-    console.log('load more prroducts');
+    console.log('load more products');
   }
 });
 
