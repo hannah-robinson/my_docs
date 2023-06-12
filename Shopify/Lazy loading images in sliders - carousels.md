@@ -67,5 +67,7 @@ You can use liquid to add lazy loading to all but the first image in a slider/ca
 
 🖇 Links
 [[Lazy Loading]]
+[[Images]]
 [[Shopify]]
-[[Sliders - Carsousels]]
+[[_Web Performance Optimisation_]]
+[[Sliders - Carousels]]
