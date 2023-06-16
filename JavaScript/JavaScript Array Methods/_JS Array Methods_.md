@@ -7,16 +7,18 @@ programme:
 platform:
 tags: javascript, arrays, array-methods
 ---
+
 ⬆ [[_JavaScript_]]
 
 ## Methods
+
 - [[Map Method]]
 - [[Filter Method]]
 - [[Reduce Method]]
-- 
+-
 
 ---
+
 🏷 Tags: #MOC #🌱
 
 🖇 Related links:
-

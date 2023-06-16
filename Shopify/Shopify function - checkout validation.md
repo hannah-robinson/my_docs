@@ -103,6 +103,8 @@ export default /**
 1.  In **Checkout Rules** section of the page click **Add rule**. A dialog opens and shows the `checkout-validation` function
 1.  Select the function, set the status to **Active**, and click **Add Template**.
 
+---
+
 🏷 Tags: #🌱
 
 🖇 Related links:
