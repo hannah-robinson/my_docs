@@ -1,7 +1,7 @@
 ---
-Date created: 2023-06-14
-Last updated: 2023-06-14
-Tags: "Shopify Functions", Shopify
+date-created: 2023-06-14
+last-updated: 2023-06-14
+tags: Shopify Functions, Shopify
 ---
 << [[Shopify Functions]]
 
