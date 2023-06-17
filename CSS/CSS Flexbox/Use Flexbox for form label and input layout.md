@@ -1,4 +1,12 @@
-<< [[_Flexbox_]]
+---
+last updated: 2023-06-17
+programming language: css
+library or framework:
+programme:
+platform:
+tags: css, flexbox, forms
+---
+⬆  [[_Flexbox_]]
 
 ``` HTML
 <div class="form-group">
@@ -23,3 +31,11 @@
   padding: 10px;
 }
 ```
+
+---
+🏷 Tags: #🌲
+
+🖇 Related links:
+[[Forms]]
+[[_CSS_]]
+[[_Flexbox_]]

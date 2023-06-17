@@ -1,3 +1,13 @@
+---
+last updated: 2023-06-17
+programming language: javascript
+library or framework:
+programme:
+platform:
+tags: javascript, arrays, array methods
+---
+⬆ [[_JS Array Methods_]]
+
 Executes a function on every element in the array and creating a new array with the results.
 
 Don't use `map` in these cases:
@@ -30,3 +40,7 @@ const pricesUSD = books.map((book) => book.price * 2);
 console.log(pricesUSD);
 ```
 
+---
+🏷 Tags: #🌱
+
+🖇 Related links:

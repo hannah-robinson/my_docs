@@ -1,8 +1,14 @@
 ---
-date: 2023-05-21
+date created: 2023-05-21
+last updated: 2023-06-17
 programming language: liquid
-tag: sitespeed, performance, image optimisation, lazy loading, shopify
+library or framework:
+programme:
+platform: shopify
+tags: site speed, web performance, image optimisation, lazy loading, shopify
 ---
+
+⬆ [[_Shopify_]]
 
 You can use liquid to add lazy loading to all but the first image in a slider/carousel.
 ```html
@@ -65,9 +71,14 @@ You can use liquid to add lazy loading to all but the first image in a slider/ca
 %- else -%}
 ```
 
-🖇 Links
+---
+
+🏷 Tags: #🌱
+
+🖇 Related links:
 [[Lazy Loading]]
 [[Images]]
 [[Shopify]]
 [[_Web Performance Optimisation_]]
 [[Sliders - Carousels]]
+

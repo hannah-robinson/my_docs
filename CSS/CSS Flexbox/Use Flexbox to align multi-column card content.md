@@ -1,4 +1,12 @@
-<< [[_Flexbox_]]
+---
+last updated: 2023-06-17
+programming language: css
+library or framework:
+programme:
+platform:
+tags: css, flexbox, cards, multi-column layout
+---
+⬆  [[_Flexbox_]]
 
 ``` HTML
 <div class="cards-wrapper">
@@ -37,3 +45,13 @@
     padding: 15px;
 }
 ```
+
+---
+🏷 Tags: #🌲
+
+🖇 Related links:
+[[Cards]]
+[[Multi-column layout]]
+[[_Flexbox_]]
+[[_CSS_]]
+

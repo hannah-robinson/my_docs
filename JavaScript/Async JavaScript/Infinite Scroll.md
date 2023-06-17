@@ -1,3 +1,13 @@
+---
+last updated: 2023-06-17
+programming language: javascript
+library or framework:
+programme:
+platform:
+tags: javascript, infinite scroll, scroll event, async
+---
+⬆ [[_Async JavaScript_]]
+
 ```javascript
 // Fetch products using API
 async function getProducts() {
@@ -22,5 +32,8 @@ window.addEventListener('scroll', () => {
 getProducts();
 ```
 
-Related: [[_Async JavaScript_]]
+---
+🏷 Tags: #🌱
 
+🖇 Related links:
+[[Scroll event]]

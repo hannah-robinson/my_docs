@@ -1,3 +1,15 @@
+---
+last updated: 2023-06-17
+programming language: markdown
+library or framework:
+programme: obsidian
+platform: obsidian
+tags: obsidian
+---
+⬆ [[_Obsidian_]]
+
+## How to format callouts
+
 ```markdown
 > [!faq] Heading goes here
 > Contents go here and can contain more formatting
@@ -54,5 +66,9 @@ Aliases: `hint`, `important`
 >[!quote] This a quote
 >Alias: `cite`
 
-
+---
 Reference: https://help.obsidian.md/Editing+and+formatting/Callouts
+
+🏷 Tags: #🌲
+
+🖇 Related links:

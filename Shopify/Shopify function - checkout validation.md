@@ -1,9 +1,13 @@
 ---
-date-created: 2023-06-14
-last-updated: 2023-06-14
-tags: Shopify Functions, Shopify
+date created: 2023-06-14
+last updated: 2023-06-14
+programming language: javascript, rust, graphql
+library or framework:
+programme:
+platform: shopify
+tags: shopify functions, shopify, checkout validation
 ---
-<< [[Shopify Functions]]
+⬆ [[Shopify Functions]]
 
 Check if customer is known user. If not, don't allow purchases over a certain amount.
 
@@ -97,4 +101,12 @@ export default /**
 14. In **Checkout Rules** section of the page click **Add rule**.  A dialog opens and shows the `checkout-validation` function
 15. Select the function, set the status to **Active**, and click **Add Template**.
 
-Related: [[Shopify]]
+---
+
+🏷 Tags: #🌱
+
+🖇 Related links:
+[[Shopify]]
+[[GraphQL]]
+[[Shopify Functions]]
+[[_JavaScript_]]
