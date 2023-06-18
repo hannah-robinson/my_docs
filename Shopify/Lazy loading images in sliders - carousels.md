@@ -5,7 +5,7 @@ programming language: liquid
 library or framework:
 programme:
 platform: shopify
-tags: site speed, web performance, image optimisation, lazy loading, shopify
+tags: site-speed, web-performance, image-optimisation, lazy-loading, shopify
 ---
 
 ⬆ [[_Shopify_]]

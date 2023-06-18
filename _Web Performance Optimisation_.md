@@ -5,7 +5,7 @@ library or framework:
 programme:
 platform:
 tags: site speed, web optimisation, web performance
-alias: site speed, sitespeed, web optimisation, web performance, wpo, performance
+alias: site-speed, sitespeed, web-optimisation, web-performance, wpo, performance
 ---
 ⬆ [[_Home_]]
 

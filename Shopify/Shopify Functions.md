@@ -5,7 +5,7 @@ programming language: javascript, rust
 library or framework:
 program: 
 platform: shopify
-tags: shopify, shopiify functions
+tags: shopify, shopify-functions
 ---
 ⬆ [[_Shopify_]]
 

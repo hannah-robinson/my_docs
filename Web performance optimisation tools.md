@@ -5,7 +5,7 @@ programming language:
 library or framework:
 programme:
 platform:
-tag: site speed, web performance, analysis
+tag: site-speed, web-performance, analysis
 alias: Site speed optimisation tools, Sitespeed optimisation tools
 ---
 

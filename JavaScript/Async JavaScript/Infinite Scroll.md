@@ -4,7 +4,7 @@ programming language: javascript
 library or framework:
 programme:
 platform:
-tags: javascript, infinite scroll, scroll event, async
+tags: javascript, infinite-scroll, scroll-event, async
 ---
 ⬆ [[_Async JavaScript_]]
 

@@ -4,7 +4,7 @@ programming language: javascript
 library or framework:
 programme:
 platform:
-tags: javascript, arrays, array methods
+tags: javascript, arrays, array-methods
 ---
 ⬆ [[_JS Array Methods_]]
 

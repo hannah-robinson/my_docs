@@ -5,7 +5,7 @@ programming language: javascript, rust, graphql
 library or framework:
 programme:
 platform: shopify
-tags: shopify functions, shopify, checkout validation
+tags: shopify-functions, shopify, checkout-validation
 ---
 ⬆ [[Shopify Functions]]
 
