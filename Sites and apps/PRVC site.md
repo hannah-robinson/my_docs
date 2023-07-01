@@ -9,7 +9,6 @@ tags: wordpress, custom-theme
 ---
 ⬆ [[_Sites and apps_]]
 
-## Work
 - [[Allow mobile menu to scroll while rest of page is static]] 2023-06-18 12:35
 
 
