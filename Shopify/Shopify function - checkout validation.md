@@ -22,10 +22,10 @@ Check if customer is known user. If not, don't allow purchases over a certain am
    3. Name app `my-app`
    4. Choose (1) node
    5. `cd ./my-app`
-   6. `npm run dev` helps with initial setup connecting it to the dev store
-   7. authenticate
-   8. Choose "yes, create it as a new app"
-   9. App name `my-app`
+	   1. `npm run dev` helps with initial setup connecting it to the dev store
+   6. authenticate
+   7. Choose "yes, create it as a new app"
+   8. App name `my-app`
 3. Inside store follow prompt to install new app
 4. Install Pre-release CLI version to the project `npm install @shopify/cli@pre @shopify/app@pre`
 5. Install extension to app `npm run shopify app generate extension`
