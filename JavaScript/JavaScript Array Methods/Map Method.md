@@ -1,5 +1,5 @@
 ---
-last updated: 2023-06-17
+last updated: 2023-07-07
 programming language: javascript
 library or framework:
 programme:
@@ -42,8 +42,20 @@ const pricesUSD = books.map((book) => book.price * 2)
 console.log(pricesUSD)
 ```
 
+#### Use `.map()` to create new objects
+Here we need to use the parenthesis to tell JS that these curly braces are for creating a new object, not to wrap the body of the function
+```js
+const hobbies = ["reading", "cooking", "hiking"]
+const editedHobbies = hobbies.map((item) => ({text: item}))
+
+// > [{text: "reading"}, {text: "cooking"}, {text: "hiking"}]
+```
+
 ---
 
 🏷 Tags: #🌱
 
 🖇 Related links:
+[[Arrow functions]]
+[[_JavaScript Objects_]]
+

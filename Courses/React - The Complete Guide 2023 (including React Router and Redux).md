@@ -1,19 +1,19 @@
 ---
-date created: 2023-06
+date created: 2023-07-07
 last updated: 2023-07-07
 type: course
 instructor: Maximilian Schwarzmüller
 platform: udemy
 programming language: javascript
-library or framework: 
+library or framework: react
 programme:
 topic: 
 tags: 
-date course started:
+date course started: 2023-07-05
 date course completed:
 ---
 
-https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/learn
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn
 
 
 ---

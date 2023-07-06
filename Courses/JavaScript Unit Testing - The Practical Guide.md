@@ -1,19 +1,19 @@
 ---
-date created: 2023-06
+date created: 2023-07-07
 last updated: 2023-07-07
 type: course
 instructor: Maximilian Schwarzmüller
 platform: udemy
 programming language: javascript
-library or framework: 
+library or framework: jest
 programme:
-topic: 
-tags: 
+topic: testing, unit tests
+tags: testing
 date course started:
 date course completed:
 ---
 
-https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/learn
+https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn
 
 
 ---

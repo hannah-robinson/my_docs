@@ -1,10 +1,10 @@
 ---
-date created: 2023-06
+date created: 2023-07-07
 last updated: 2023-07-07
 type: course
 instructor: Maximilian Schwarzmüller
 platform: udemy
-programming language: javascript
+programming language: typescript
 library or framework: 
 programme:
 topic: 
@@ -13,7 +13,7 @@ date course started:
 date course completed:
 ---
 
-https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/learn
+https://www.udemy.com/course/understanding-typescript/learn
 
 
 ---
