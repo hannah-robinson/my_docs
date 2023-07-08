@@ -1,11 +1,11 @@
 ---
 date created: 2023-07-01
-last updated: 2023-07-01
+last updated: 2023-07-07
 programming language: javascript
 tags: this
 aliases: 
 ---
-⬆ [[_JavaScript_]]
+⬆ [[JS Functions]]
  
 ![[Using arrow functions inside object methods#Don't use arrow functions as object methods]]
 

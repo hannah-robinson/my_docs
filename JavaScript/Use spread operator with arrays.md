@@ -5,7 +5,7 @@ programming language: javascript
 tags: arrays
 aliases: 
 ---
-⬆ [[_JavaScript_]]
+⬆ [[Arrays]]
 
 ```js
 const hobbies = ['sports', 'reading']

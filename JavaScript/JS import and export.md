@@ -5,7 +5,7 @@ programming language: javascript
 tags: import, export, modules
 aliases: 
 ---
-⬆ [[_JavaScript_]]
+⬆ [[_JavaScript_]] 
 
 For import and export to work you must be using `type="module"`
 ```

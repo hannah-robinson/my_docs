@@ -5,7 +5,7 @@ programming language: javascript
 tags: input
 aliases: 
 ---
-⬆ [[_JavaScript Objects_]]
+⬆ [[DOM]]
 
 If you have an input HTML tag, you can get the text the user entered using `.value`
 
