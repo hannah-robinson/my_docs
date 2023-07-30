@@ -14,7 +14,7 @@
  - Handling form submission
  - [[Child-to-parent communication (bottom up)]]
  - [[Lifting state up]]
- - [[ Derived state]]
+ - [[Derived state]]
  - Controlled vs uncontrolled components and stateless vs stateful components
  - Rendering lists of data
 
