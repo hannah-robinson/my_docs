@@ -11,6 +11,7 @@
 ## Fixing problems
 [[How we fixed the my_docs supposedly missing files issue]]
 
+[[Unstage file]]
 [[Problem - you made a spelling mistake in the commit messages or forgot to make additional changes]]
 [[Problem - you modified locally a file you don't want to]]
 [[Problem - you need to modify a commit other than the last one]]
