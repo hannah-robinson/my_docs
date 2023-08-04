@@ -12,7 +12,10 @@ tags:
 - [[_React_]]
 - [[_Shopify_]]
 - [[_Web Performance Optimisation_]]
+- [[_Git_]]
 - [[_Obsidian_]]
+- [[_VS  Code_]]
+
 
 ---
 🏷 Tags: #MOC #🌱
