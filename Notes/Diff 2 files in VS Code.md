@@ -21,3 +21,4 @@ tags:
 🏷 Tags: #🌱
 
 🖇 Related links:
+[[Git diff]]

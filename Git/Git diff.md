@@ -9,6 +9,8 @@ tags:
 ---
 ⬆ [[_Git_]]
 
+In the output of these commands, lines prefaced with `-` and displayed in red show a change in file "a" and lines prefaced with `+` and displayed in green show a change in file "b".
+
 **Compare staging and working directory**
 ```bash
 git diff
@@ -55,7 +57,8 @@ git diff branch1..branch2 file.txt
 git diff branch1 branch2 file.txt
 ```
 
-
-🏷 Tags: #🌱
+---
+🏷 Tags: #🌲
 
 🖇 Related links:
+[[Diff 2 files in VS Code]]
