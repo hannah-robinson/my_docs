@@ -45,7 +45,7 @@ can see what's available in  /extensions/conditionally-hide-payment-option/schem
 cd into /extensions/conditionally-hide-payment-option/ and run `npm run shopify app function typegen` to generate these GraphQL types (old? now just `npm run typegen` ?)
 https://shopify.dev/docs/apps/checkout/payment-customizations/getting-started
 
-edit code in  /extensions/conditionally-hide-payment-option/src/index.js 
+edit code in /extensions/conditionally-hide-payment-option/src/index.js 
 
 In partner dashboard find extensions in left panel and then turn on "Development store preview"
 
