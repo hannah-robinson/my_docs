@@ -273,10 +273,16 @@ You should receive a GraphQL response that includes the ID of the created paymen
 Note: You will need to repeat everything in this GraphiQL section on the live store later when you install the app there.
 
 ### Activate the Function on the dev store
-1. From the Shopify admin, go to **Settings** > **Payments**.
-2. Check the **Payment customisations** section. You should find the **Hide payment method by cart total** payment customization that you created with GraphiQL.
-3. From the **Manual payment methods** section, click **Add manual payment method** and then click **Cash on Delivery (COD)**.
-4. Click **Activate**.
-go to settings > checkout on test store a bottom of page find "checkout rules" add rule and enable it
-note: any console.logs appear in the dashboard
+From the Shopify admin, go to **Settings** > **Payments**.
+Check the **Payment customisations** section. You should find the **Hide payment method by cart total** payment customisation that you created with GraphiQL.
+Click **Activate**.
+
+
+After any changes:
+`npm run dev `
+again to build it
+
+When installing on live store remember to do the mutation in GraphiQL
+
+note: any console.logs appear in the dashboard 
 
