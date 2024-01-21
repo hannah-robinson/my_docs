@@ -8,8 +8,10 @@ platform: shopify
 tags:
 ---
 ⬆ 
+## Getting started
 
-⚠️ Make sure you do your work on a feature branch and doing your testing on that feature branch.
+⚠️ Make sure you do your work on a feature branch and do all your testing on that feature branch. Don't merge your branch into master until you have approval for push live.
+
 ```bash
 node -v
 nvm install --lts
@@ -34,9 +36,11 @@ npm run shopify app generate extension
 # > <app that has shopify.app.toml after it> (shopify.app.toml)
 
 npm run dev
-# You can see in the shopify.app.toml file (and the app's Confluence doc) which store is being used as the dev store for app testing
-# When yoou run this command, Shopify CLI will create the app's `.env` file for you and populate its contents
+# You can see in the shopify.app.toml file (and the app's Confluence doc) which store is being used as the dev store for app testing. 
+#  When you run this command, Shopify CLI will create the app's `.env` file for you and populate its contents
 ```
+
+## Deploying
 
 Get approval from PM/AM for push live. Only after you have approval for push live can you merge your work into master. 
 After you've merged into master, deploy as below.
@@ -46,9 +50,14 @@ After you've merged into master, deploy as below.
 Follow the onscreen prompts in your terminal.
 ⚠️ NOTE: Doing this will deploy directly to all the instances of the live app affecting every store the app is installed on and will deploy ALL extensions in the master branch no matter whether or not they are ready for deployment. This is one reason it's so important to develop and test your extension on a feature branch
 
-Update the Confluence page for this app with the name of the new extension and a descriiption of what it does. If you've changed anything in any other extensions in the app, update these details too.
+Update the Confluence page for this app with the name of the new extension and a description of what it does. If you've changed anything in any other extensions in the app, update these details too.
+
+Some related Shopify documentation:
+[https://shopify.dev/docs/apps/tools/cli/existing](https://shopify.dev/docs/apps/tools/cli/existing)
 
 ---
-🏷 Tags: #🌱
+🏷 Tags: #🌲 
 
 🖇 Related links: [[Deploying Shopify Functions and UI Extensions]]
+[https://shopify.dev/docs/apps/tools/cli/existing](https://shopify.dev/docs/apps/tools/cli/existing)
+
