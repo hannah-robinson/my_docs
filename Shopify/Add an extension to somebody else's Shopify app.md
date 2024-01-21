@@ -23,12 +23,15 @@ npm i # to install all the dependencies in the package-lock.json
 npm run shopify version # to check that the npm install installed Shopify CLI correctly
 
 git checkout -b feature-branch 
+# DON'T MERGE YOUR BRANCH INTO MASTER UNTIL YOU HAVE APPROVAL FOR PUSH LIVE
+
 # in app's root directory
 npm run shopify app generate extension
+# Follow the onscreen prompts in the terminal and choose:
 # ?  Create this project as a new app on Shopify?
 # ✔  No, connect it to an existing app
 # ?  Which existing app is this for?   Type to search...
-# > workflow-testing-app (shopify.app.toml)
+# > <app that has shopify.app.toml after it> (shopify.app.toml)
 
 npm run dev
 # You can see in the shopify.app.toml file (and the app's Confluence doc) which store is being used as the dev store for app testing
