@@ -7,7 +7,9 @@ programme: git
 platform:
 tags: 
 ---
-⬆ [[_Git_]]
+	⬆ [[_Git_]]
+
+## Using `checkout`
 
  Based on the current revision:
 ```bash
@@ -19,9 +21,16 @@ git checkout -b <branch-name>
 git checkout -b <branch-name> <commit-hash>
 ```
 
+## Using `switch`
+
+```bash
+git switch -c <branch-name>
+``` 
+'c' for 'create'
+
 ---
 🏷 Tags: #🌲 
 
-🖇 Related links:
+🖇 Related links: [[git switch]]
 Source: https://www.git-tower.com/learn/git/faq/git-create-remote-branch/
 [[_Git_]]

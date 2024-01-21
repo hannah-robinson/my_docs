@@ -2,7 +2,7 @@
 [[Useful Git tools]]
 
 ### Git commands
-[[Create a new local branch]]
+[[Create a new local branch and switch to it]]
 [[Push a local branch to a remote repository]]
 [[Create a new branch without checking it out]]
 [[Reset local branch to the same head as remote branch]]

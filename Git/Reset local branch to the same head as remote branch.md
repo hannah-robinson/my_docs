@@ -6,7 +6,7 @@ tags:
 ---
 ⬆ [[_Git_]]
 
-Reset local main branch to the same head as the remote main branch
+Reset local main branch to the same [[Git head|head]] as the remote main branch
  ```
 git reset --hard origin/main
  ```
