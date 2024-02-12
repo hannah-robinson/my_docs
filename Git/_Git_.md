@@ -17,6 +17,8 @@
 [[Problem - you need to modify a commit other than the last one]]
 [[Problem - you need to undo local commits]]
 [[Problem - you used  git reset --hard and lost work]]
+[[Problem - you set the wrong remote origin]]
+
 
 
 ### Git Documentation
