@@ -24,6 +24,10 @@ cd workflow-testing-app
 npm i # to install all the dependencies in the package-lock.json
 npm run shopify version # to check that the npm install installed Shopify CLI correctly
 
+npm run dev
+# You can see in the shopify.app.toml file (and the app's Confluence doc) which store is being used as the dev store for app testing. 
+#  When you run this command, Shopify CLI will create the app's `.env` file for you and populate its contents
+
 git checkout -b feature-branch 
 # DON'T MERGE YOUR BRANCH INTO MASTER UNTIL YOU HAVE APPROVAL FOR PUSH LIVE
 
@@ -35,9 +39,6 @@ npm run shopify app generate extension
 # ?  Which existing app is this for?   Type to search...
 # > <app that has shopify.app.toml after it> (shopify.app.toml)
 
-npm run dev
-# You can see in the shopify.app.toml file (and the app's Confluence doc) which store is being used as the dev store for app testing. 
-#  When you run this command, Shopify CLI will create the app's `.env` file for you and populate its contents
 ```
 
 ## Deploying
