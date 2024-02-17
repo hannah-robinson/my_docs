@@ -17,6 +17,8 @@
  - [[Derived state]]
  - Controlled vs uncontrolled components and stateless vs stateful components
  - Rendering lists of data
+ - [[Reusability in React]]
+
 
 
 Declarative vs imperative, composition
