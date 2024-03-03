@@ -1,9 +1,9 @@
 #MOC
  - Passing data via props
- - Children props
+ - [[Children props]]
  - Importing and exporting
- - Using image files
- - Listening to events and working with event handlers
+ - [[Using image files]]
+ - [[Listening to events and working with event handlers]]
  - [[Working with state]]
  - useState hook
  - Working with multiple states
@@ -17,8 +17,9 @@
  - [[Derived state]]
  - Controlled vs uncontrolled components and stateless vs stateful components
  - Rendering lists of data
- - [[Reusability in React]]
+ 
+[[Reusability in React]]
 
-
+[[React VS Code Tricks]]
 
 Declarative vs imperative, composition
