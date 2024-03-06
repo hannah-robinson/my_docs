@@ -20,14 +20,14 @@ export let apiKey = "sdhsaiohd&i"
 export let abc = "xyz" // if you're not using default you can export as many things as you want in the same file.
 
 // app.js
-import { apiKey, abc } from './util.js' // in Vanilla JS the file ext is added, in Rreact it's ommitted (due to build process adding it for us)
+import { apiKey, abc } from './util.js' // in Vanilla JS the file ext is added, in React it's ommitted (due to build process adding it for us)
 ```
 
 default export (common in React)
 ```js
 // util.js
 export default "sdhsaiohd&i"
-// if you're using default you can  only export one thing from the file and you shouldn't use let/const/var. You just export a value wiith no name.
+// if you're using default you can only export one thing from the file and you shouldn't use let/const/var. You just export a value with no name.
 
 // app.js
 import apiKey from './util.js' // when importing default, don't use curly braces, do assign a name.
@@ -71,7 +71,7 @@ console.log(content)
 Source: https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/learn/lecture/16029752#overview by [[@Maximilian Schwarzmüller]]
 
 ---
-🏷 Tags: 
+🏷 Tags: #🌱 
 
 🖇 Related links:
 [[this keyword]]

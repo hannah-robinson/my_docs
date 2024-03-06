@@ -1,7 +1,7 @@
 #MOC
  - Passing data via props
  - [[Children props]]
- - Importing and exporting
+ - [[Importing and exporting]]
  - [[Using image files]]
  - [[Listening to events and working with event handlers]]
  - [[Working with state]]
@@ -19,6 +19,8 @@
  - Rendering lists of data
  
 [[Reusability in React]]
+
+[[React component lifecycle]]
 
 [[React VS Code Tricks]]
 
