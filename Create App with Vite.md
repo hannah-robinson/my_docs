@@ -1,12 +1,11 @@
-
 ---
-date created: 2024-02-17
 last updated: 2024-02-17
 programming language: 
 library or framework: 
 programme: 
 platform: vite
 tags:
+---
 ---
 ⬆ [[_Vite_]]
 
