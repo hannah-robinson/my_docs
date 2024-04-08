@@ -1,0 +1,2 @@
+- [[Create aliases for terminal]]
+- 

@@ -10,6 +10,9 @@ tags: moc, css
 
 - [[_Flexbox_]]
 - [[CSS Grid]]
+- [[Add an image using CSS]]
+- [[Add an SVG using CSS]]
+- 
 
 
 ---
