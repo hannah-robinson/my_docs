@@ -1,7 +1,12 @@
 #MOC
+
+### Setup
 - [[Create App with Vite]]
+### Props
+- [[Props that might not look like props (no equals sign and value)]]
  - Passing data via props
  - [[Children props]]
+### Other
  - [[Importing and exporting]]
  - [[Using image files]]
  - [[Listening to events and working with event handlers]]

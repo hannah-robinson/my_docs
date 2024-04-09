@@ -30,7 +30,7 @@ export default function TabButtton({children}) {
 ```
 
 ---
-🏷 Tags: #🌱
+🏷 Tags: #🌱 #react-props
 
 🖇 Related links:
 [[React - The Complete Guide 2023 (including React Router and Redux)]]
