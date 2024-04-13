@@ -6,6 +6,10 @@
 - [[Props that might not look like props (no equals sign and value)]]
  - Passing data via props
  - [[Children props]]
+ - [[Adding extra JSX slots to a component]]
+ - [[Forwarded props aka proxy props]]
+ - [[Allow an HTML tag type to be set when the component is used]]
+ - [[Setting a default props values]]
 ### Other
  - [[Importing and exporting]]
  - [[Using image files]]
