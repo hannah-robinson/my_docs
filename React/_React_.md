@@ -9,6 +9,8 @@
  - [[Adding extra JSX slots to a component]]
  - [[Forwarded props aka proxy props]]
  - [[Allow an HTML tag type to be set when the component is used]]
+ - [[Pass CSS classes through as props]]
+ - [[Pass a custom component through as props]]
  - [[Setting a default props values]]
 ### Other
  - [[Importing and exporting]]
