@@ -29,7 +29,9 @@
  - [[Derived state]]
  - Controlled vs uncontrolled components and stateless vs stateful components
  - Rendering lists of data
- 
+
+[[Styling React Apps - Static and Dynamic Styling]]
+
 [[Reusability in React]]
 
 [[React component lifecycle]]
